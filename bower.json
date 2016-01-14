@@ -1,0 +1,24 @@
+{
+  "name": "till_tech_test",
+  "homepage": "https://github.com/d9nny/auto-pair2",
+  "authors": [
+    "danwheeler <da-wheeler@hotmail.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8"
+  }
+}
