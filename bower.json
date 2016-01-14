@@ -1,6 +1,6 @@
 {
   "name": "till_tech_test",
-  "homepage": "https://github.com/d9nny/auto-pair2",
+  "homepage": "https://github.com/d9nny/till_tech_test",
   "authors": [
     "danwheeler <da-wheeler@hotmail.co.uk>"
   ],
@@ -20,5 +20,9 @@
     "bootstrap": "~3.3.6",
     "angular": "~1.4.8",
     "angular-resource": "~1.4.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.8",
+    "angular-route": "~1.4.8"
   }
 }
